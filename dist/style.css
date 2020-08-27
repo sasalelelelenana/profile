@@ -1,0 +1,77 @@
+.container{
+  background-color:white;
+  display:flex;
+  flex-direction: column;
+  justify-content:center;
+  height:240vh;
+}
+
+.img{
+  width:100%;
+  height:700px;
+}
+
+.about{
+  display:flex;
+  flex:1;
+  flex-direction:row;
+  align-items: center;
+  justify-content:space-around;
+  border-bottom:0.5px solid #bdbdbd;
+}
+
+.briefintro{
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+  width:600px;
+  height:300px;
+}
+
+.icons{
+  font-size:20px;
+  display:flex;
+  flex-direction:raw;
+  align-items:center;
+}
+
+.experience{
+  display:flex;
+  flex:1;
+  flex-direction:row;
+  align-items: center;
+  justify-content:space-around;
+  border-bottom:0.5px solid #bdbdbd;
+}
+
+.schools{
+  display:flex;
+  flex-direction:column;
+  align-items: center;
+}
+
+
+.intern{
+  display:flex;
+  flex:1;
+  flex-direction:column;
+  align-items:center;
+  justify-content:space-around;
+}
+
+.pic{
+  display:flex;
+  flex-direction:row;
+  align-items: center;
+  justify-content:space-around;
+}
+
+.workcontent{
+  height:250px;
+  display:flex;
+  margin-left:50px;
+  margin-right:50px;
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+}
